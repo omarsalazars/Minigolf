@@ -1,0 +1,32 @@
+Bola X
+Bola Y
+Agujero X
+Agujero Y
+N Paredes //Despues N lineas con lo siguiente
+Pared X
+Pared Y
+Pared Width
+Pared Height
+//Hay un salto de linea entre cada pared
+
+K Zonas de caida //K lineas con zonas en las que se aumenta la gravedad
+Aceleración X
+Aceleración Y
+Zona x
+Zona y
+Zona Width
+Zona Height
+//Hay un salto de linea entre cada zona
+
+MOLINOS
+Coordenadas igual que en paredes
+Velocidad angular
+
+ARENA
+Damping
+X
+Y
+Width
+Height
+
+
